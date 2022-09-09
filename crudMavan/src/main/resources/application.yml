@@ -1,0 +1,17 @@
+#spring:
+#  detasource:
+#    username:spring_boot_demo
+#      password:Ebrain@20
+#        url:jdbc:mysql://101.53.155.156:3306/spring_boot_demo
+#          driver-class-name:com.mysql.jdbc.Driver
+#  jpa:
+#    show-sql=true
+#  hibernate:
+#    ddl-auto=update
+#  properties:
+#    hibernate:
+#      dialect=org:
+#        hibernate:
+#          dialect:
+#            MySQL5InnoDBDialect:
+#
